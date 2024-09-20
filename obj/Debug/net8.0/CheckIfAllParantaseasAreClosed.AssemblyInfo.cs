@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckIfAllParantaseasAreClosed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac23e7bc3b1c215ba3843213720c3f8a7e63d509")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckIfAllParantaseasAreClosed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckIfAllParantaseasAreClosed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
